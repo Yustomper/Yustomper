@@ -75,11 +75,11 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 <h2>🌟 Proyectos Destacados</h2>
 
 <div align="center">
-  <a href="https://github.com/francisco-cisterna/proyecto-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=proyecto-django&theme=radical" alt="Proyecto Django" />
+  <a href="https://github.com/Yustomper/Book-review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=Book-review&theme=radical" alt="Book-review" />
   </a>
-  <a href="https://github.com/francisco-cisterna/aprendiendo-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=aprendiendo-react&theme=radical" alt="Aprendiendo React" />
+  <a href="https://github.com/Yustomper/volley-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-app&theme=radical" alt="volley-app" />
   </a>
 </div>
 
