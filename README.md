@@ -92,7 +92,7 @@ Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros 
 </p>
 
 <p align="center">
-  <a href="https://github.com/francisco-cisterna?tab=repositories" target="_blank">
+  <a href="https://github.com/Yustomper?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20más%20proyectos-2ea44f?style=for-the-badge" alt="Ver más proyectos" />
   </a>
 </p>
