@@ -76,7 +76,7 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 
 <div align="center">
   <a href="https://github.com/Yustomper/volley-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=tasks-react&theme=radical" alt="volley-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-app&theme=radical" alt="volley-app" />
   </a>
   <a href="https://github.com/Yustomper/tasks-react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=tasks-react&theme=radical" alt="tasks-react" />
