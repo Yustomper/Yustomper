@@ -75,8 +75,8 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 <h2>🌟 Proyectos Destacados</h2>
 
 <div align="center">
-  <a href="https://github.com/Yustomper/Book-review">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=Book-review&theme=radical" alt="Book-review" />
+  <a href="https://github.com/Yustomper/Book-review](https://github.com/Yustomper/volley-2](https://github.com/Yustomper/volley-app">
+    <img src="https://volleyballs.vercel.app" alt="Book-review" />
   </a>
   <a href="https://github.com/Yustomper/tasks-react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=tasks-react&theme=radical" alt="tasks-react" />
@@ -105,10 +105,10 @@ Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros 
   <a href="https://linkedin.com/in/francisco-cisterna" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:francisco.cisterna@example.com">
+  <a href="mailto:cpardofrancisco@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/francisco-cisterna" target="_blank">
+  <a href="https://github.com/francisco-cisternas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -116,7 +116,7 @@ Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=francisco-cisterna&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="francisco-cisterna" />
+  <img src="https://komarev.com/ghpvc/?username=francisco-cisterna&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="francisco-cisternas" />
 </div>
 
 <h4 align="center">¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades de aprendizaje y colaboración que nos esperan. 😊</h4>
