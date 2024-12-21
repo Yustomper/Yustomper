@@ -1,29 +1,23 @@
-<h1 align="center">Hola 👋, Soy Francisco Cisternas</h1>
+<h1 align="center">¡Hola! 👋 Soy Francisco Cisternas</h1>
 
-<h3 align="center">🚀 Desarrollador Web Autodidacta | Entusiasta de Python y Django</h3>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300px" style="border-radius: 10px;">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Python gif" width="300px" style="border-radius: 10px;"/>
-</div>
-
+<h3 align="center">🚀 Desarrollador Web Autodidacta | Apasionado por Crear Soluciones Modernas</h3>
 
 ---
 
-<h2>🚀 Sobre mí</h2>
+<h2>🌟 Sobre mí</h2>
 
 <p align="justify">
-Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología y el aprendizaje continuo. Mi viaje en el mundo del desarrollo comenzó con Python y Django, y desde entonces, he estado expandiendo mis horizontes hacia tecnologías front-end como React y Tailwind CSS. Me motiva la colaboración y el intercambio de conocimientos, siempre buscando oportunidades para crecer y contribuir en proyectos desafiantes.
+Soy un desarrollador web autodidacta enfocado en construir aplicaciones robustas y escalables. Mi trayectoria comenzó con Python y Django, lo que me llevó a profundizar en arquitecturas RESTful y expandirme hacia el desarrollo frontend. Aunque actualmente soy principiante en React, estoy consolidando mis conocimientos y avanzando en el desarrollo de interfaces modernas. Me entusiasma resolver problemas, aprender nuevas tecnologías y trabajar en equipo para crear soluciones de alto impacto. Actualmente, estoy perfeccionando mis habilidades en <strong>Docker</strong> y <strong>despliegues en producción</strong>, mientras mejoro mi nivel de inglés técnico para colaborar en equipos globales.
 </p>
 
-- 🐍 Especializado en **Python** y **Django**
-- 🌱 Actualmente aprendiendo **React** y **Tailwind CSS**
-- 💡 Siempre buscando colaborar y aprender de otros desarrolladores
-- 💻 Experiencia con **Windows**, **SQLite** y **PostgreSQL**
-- 🔭 Trabajando en proyectos personales para fortalecer mis habilidades
-- 📚 Constantemente ampliando mis conocimientos en desarrollo web
+- 🐍 **Backend:** Experiencia sólida en **Python**, **Django** y **Django REST Framework**.
+- 🌐 **Frontend:** Explorando y aprendiendo **React** para crear interfaces modernas e interactivas.
+- 🛠️ **Despliegue:** Configuración de proyectos en **Render**, **Vercel**, y bases de datos en **Neon**.
+- 🌱 Actualmente aprendiendo **Docker** y mejorando mi inglés (nivel A2).
+- 📊 Experto en **consultas optimizadas** con ORM de Django, paginación, y sistemas de cacheo.
+- 🔭 Trabajando en un tercer proyecto avanzado que incluye **WebSockets** para comunicación en tiempo real.
 
-> "El aprendizaje es un viaje continuo, y cada línea de código es un paso adelante."
+> "Cada línea de código es una oportunidad para innovar."
 
 ---
 
@@ -33,8 +27,7 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-DRF-FF1709?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -48,15 +41,17 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<h3>Herramientas y Otros</h3>
+<h3>Herramientas y Despliegue</h3>
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-0466C8?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-<h2>📊 Estadísticas de GitHub</h2>
+<h2>📈 Estadísticas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yustomper&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
@@ -72,14 +67,14 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 
 ---
 
-<h2>🌟 Proyectos Destacados</h2>
+<h2>🚀 Proyectos Destacados</h2>
 
 <div align="center">
-  <a href="https://github.com/Yustomper/volley-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-app&theme=radical" alt="volley-app" />
+  <a href="https://github.com/Yustomper/volley-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-2&theme=radical" alt="Volley App" />
   </a>
-  <a href="https://github.com/Yustomper/tasks-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=tasks-react&theme=radical" alt="tasks-react" />
+  <a href="https://github.com/Yustomper/Book-review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=Book-review&theme=radical" alt="Book Review" />
   </a>
 </div>
 
@@ -87,15 +82,30 @@ Soy un desarrollador web autodidacta con una pasión ardiente por la tecnología
 
 <h2>🤝 Colaboración y Aprendizaje</h2>
 
-<p align="center">
-Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores. Si tienes una idea para un proyecto o buscas un compañero de codificación, ¡no dudes en contactarme!
+<p align="justify">
+Estoy siempre abierto a colaborar en proyectos desafiantes y aprender de otros desarrolladores. Si estás buscando a alguien con experiencia práctica en Django y React, o tienes una idea innovadora, ¡hablemos! Puedes contactarme a través de mi perfil de GitHub o mis redes sociales.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Yustomper?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20más%20proyectos-2ea44f?style=for-the-badge" alt="Ver más proyectos" />
   </a>
+</div>
+
+
+---
+
+<h2>🤝 Colaboración y Aprendizaje</h2>
+
+<p align="justify">
+Estoy siempre abierto a colaborar en proyectos desafiantes y aprender de otros desarrolladores. Si estás buscando a alguien con experiencia práctica en Django y React, o tienes una idea innovadora, ¡hablemos! Puedes contactarme a través de mi perfil de GitHub o mis redes sociales.
 </p>
+
+<div align="center">
+  <a href="https://github.com/Yustomper?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20más%20proyectos-2ea44f?style=for-the-badge" alt="Ver más proyectos" />
+  </a>
+</div>
 
 ---
 
