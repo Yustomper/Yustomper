@@ -14,7 +14,7 @@ Soy un desarrollador web autodidacta enfocado en construir aplicaciones robustas
 - 🌐 **Frontend:** Explorando y aprendiendo **React** para crear interfaces modernas e interactivas.
 - 🛠️ **Despliegue:** Configuración de proyectos en **Render**, **Vercel**, y bases de datos en **Neon**.
 - 🌱 Actualmente aprendiendo **Docker** y mejorando mi inglés (nivel A1).
-- 📊 Experto en **consultas optimizadas** con ORM de Django, paginación, y sistemas de cacheo.
+- 📊 Experiencia en **consultas optimizadas** con ORM de Django, paginación, y sistemas de cacheo.
 - 🔭 Trabajando en un tercer proyecto avanzado que incluye **WebSockets** para comunicación en tiempo real.
 
 > "Cada línea de código es una oportunidad para innovar."
