@@ -92,21 +92,6 @@ Estoy siempre abierto a colaborar en proyectos desafiantes y aprender de otros d
   </a>
 </div>
 
-
----
-
-<h2>🤝 Colaboración y Aprendizaje</h2>
-
-<p align="justify">
-Estoy siempre abierto a colaborar en proyectos desafiantes y aprender de otros desarrolladores. Si estás buscando a alguien con experiencia práctica en Django y React, o tienes una idea innovadora, ¡hablemos! Puedes contactarme a través de mi perfil de GitHub o mis redes sociales.
-</p>
-
-<div align="center">
-  <a href="https://github.com/Yustomper?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20más%20proyectos-2ea44f?style=for-the-badge" alt="Ver más proyectos" />
-  </a>
-</div>
-
 ---
 
 <h2>📫 Conecta conmigo</h2>
