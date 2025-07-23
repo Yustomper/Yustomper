@@ -7,14 +7,13 @@
 <h2>🌟 About Me</h2>
 
 <p align="justify">
-I'm a self-taught web developer focused on building robust and scalable applications. My journey began with Python and Django, which led me to explore RESTful architectures and expand into frontend development. Although I'm currently a beginner in React, I'm actively consolidating my knowledge and progressing in modern interface design. I love solving problems, learning new technologies, and collaborating with teams to build high-impact solutions. I'm currently improving my deployment skills and working on enhancing my English level (currently B1).
+I'm a self-taught web developer focused on building robust and scalable applications. My journey began with Python and Django, which led me to explore RESTful architectures and expand into frontend development. Although I'm currently a beginner in React, I'm actively consolidating my knowledge and progressing in modern interface design. I enjoy solving problems, learning new technologies, and collaborating with teams to build impactful solutions. I'm also working on improving my English skills (currently B1 level).
 </p>
 
 - 🐍 **Backend:** Solid experience with **Python**, **Django**, and **Django REST Framework**.  
 - 🌐 **Frontend:** Exploring and learning **React** to build modern and interactive interfaces.  
 - 🛠️ **Deployment:** Project setup using **Render**, **Vercel**, and databases with **Neon**.  
-- 📊 Experience with **optimized queries** using Django ORM, pagination, and caching systems.  
-- 🔭 Currently working on a third advanced project that includes **WebSockets** for real-time communication.
+- 📊 Experience with **optimized queries** using Django ORM, pagination, and caching systems.
 
 > _"Every line of code is a chance to innovate."_
 
