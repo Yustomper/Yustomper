@@ -14,6 +14,7 @@ I'm a self-taught web developer focused on building robust and scalable applicat
 - 🌐 **Frontend:** Exploring and learning **React** to build modern and interactive interfaces.  
 - 🛠️ **Deployment:** Project setup using **Render**, **Vercel**, and databases with **Neon**.  
 - 📊 Experience with **optimized queries** using Django ORM, pagination, and caching systems.
+- 📚 Currently improving my English (B1 level).
 
 > _"Every line of code is a chance to innovate."_
 
