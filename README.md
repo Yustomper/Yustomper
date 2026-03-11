@@ -3,7 +3,7 @@
 Chilean developer living in Peru, self-taught since 2023.
 I focus on Python and Django — building APIs, connecting databases, and shipping things to production.
 
-Currently improving my English from B1 toward B2.
+Currently improving my English from B1+ toward B2.
 
 ---
 
@@ -65,18 +65,18 @@ Currently improving my English from B1 toward B2.
 ## 🚀 Recent Work
 
 **Church Attendance System** — freelance project, Jan 2026  
-QR-based attendance management. Django backend with Google OAuth, services layer, and Swagger docs. React frontend deployed to Vercel.  
-→ [Live App](https://attendance-system-khaki-ten.vercel.app/) · [API Docs](https://attendance-system-vey5.onrender.com/api/docs)
+QR-based attendance management. Django backend with Google OAuth, services layer, and REST API documented with Swagger. React frontend deployed to Vercel.  
+→ [Live App](https://attendance-system-khaki-ten.vercel.app/) · [Swagger Docs](https://attendance-system-vey5.onrender.com/api/docs)
 
 **Volley App** — tournament management platform  
 DRF + JWT + React + TailwindCSS, deployed to Render and Vercel.
 
 <div align="center">
+  <a href="https://github.com/Yustomper/attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=attendance-system&theme=radical" alt="Church Attendance System" />
+  </a>
   <a href="https://github.com/Yustomper/volley-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-2&theme=radical" alt="Volley App" />
-  </a>
-  <a href="https://github.com/Yustomper/Book-review">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=Book-review&theme=radical" alt="Book Review" />
   </a>
 </div>
 
