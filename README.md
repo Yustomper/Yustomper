@@ -1,55 +1,52 @@
-<h1 align="center">Hi there! 👋 I'm Francisco Cisternas</h1>
+# Hi, I'm Francisco 👋
 
-<h3 align="center">🚀 Self-Taught Web Developer | Passionate About Building Modern Solutions</h3>
+Chilean developer living in Peru, self-taught since 2023.
+I focus on Python and Django — building APIs, connecting databases, and shipping things to production.
 
----
-
-<h2>🌟 About Me</h2>
-
-<p align="justify">
-I'm a self-taught web developer focused on building robust and scalable applications. My journey began with Python and Django, which led me to explore RESTful architectures and expand into frontend development. Although I'm currently a beginner in React, I'm actively consolidating my knowledge and progressing in modern interface design. I enjoy solving problems, learning new technologies, and collaborating with teams to build impactful solutions. I'm also working on improving my English skills (currently B1 level).
-</p>
-
-- 🐍 **Backend:** Solid experience with **Python**, **Django**, and **Django REST Framework**.  
-- 🌐 **Frontend:** Exploring and learning **React** to build modern and interactive interfaces.  
-- 🛠️ **Deployment:** Project setup using **Render**, **Vercel**, and databases with **Neon**.  
-- 📊 Experience with **optimized queries** using Django ORM, pagination, and caching systems.
-- 📚 Currently improving my English (B1 level).
-
-> _"Every line of code is a chance to innovate."_
+Currently improving my English from B1 toward B2.
 
 ---
 
-<h2>🛠️ Technologies & Tools</h2>
+## What I work with
 
-<h3>Languages & Frameworks</h3>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![Django REST Framework](https://img.shields.io/badge/-DRF-FF1709?style=flat-square&logo=django&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-
-<h3>Styling & Design</h3>
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-
-<h3>Databases</h3>
-
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-
-<h3>Tools & Deployment</h3>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Render](https://img.shields.io/badge/-Render-0466C8?style=flat-square&logo=render&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+**Backend:** Python · Django · Django REST Framework  
+**Frontend:** React + Vite (enough to build UI and connect REST APIs to a Django backend)  
+**Databases:** PostgreSQL · SQLite  
+**Deploy:** Render · Vercel · Neon  
+**Tools:** Git · Swagger · Thunder Client · Antigravity  
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 🛠️ Technologies & Tools
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-DRF-FF1709?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Styling & Design
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases
+
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Deployment
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-0466C8?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yustomper&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -65,7 +62,14 @@ I'm a self-taught web developer focused on building robust and scalable applicat
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Recent Work
+
+**Church Attendance System** — freelance project, Jan 2026  
+QR-based attendance management. Django backend with Google OAuth, services layer, and Swagger docs. React frontend deployed to Vercel.  
+→ [Live App](https://attendance-system-khaki-ten.vercel.app/) · [API Docs](https://attendance-system-vey5.onrender.com/api/docs)
+
+**Volley App** — tournament management platform  
+DRF + JWT + React + TailwindCSS, deployed to Render and Vercel.
 
 <div align="center">
   <a href="https://github.com/Yustomper/volley-2">
@@ -78,38 +82,13 @@ I'm a self-taught web developer focused on building robust and scalable applicat
 
 ---
 
-<h2>🤝 Collaboration & Learning</h2>
-
-<p align="justify">
-I'm always open to collaborating on exciting projects and learning from other developers. If you're looking for someone with hands-on experience in Django and React, or if you have an innovative idea, let’s connect! Feel free to reach out via GitHub or my social media.
-</p>
-
-<div align="center">
-  <a href="https://github.com/Yustomper?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/See%20more%20projects-2ea44f?style=for-the-badge" alt="See More Projects" />
-  </a>
-</div>
-
----
-
-<h2>📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/francisco-cisterna" target="_blank">
+  <a href="https://linkedin.com/in/francisco-c-pardo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cpardofrancisco@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/francisco-cisternas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=francisco-cisternas&label=Profile%20views&color=0e75b6&style=flat" alt="francisco-cisternas" />
-</div>
-
-<h4 align="center">Thanks for visiting my profile! I'm excited about the learning and collaboration opportunities ahead. 😊</h4>
