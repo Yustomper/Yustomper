@@ -1,7 +1,6 @@
 # Hi, I'm Francisco 👋
-Chilean developer living in Peru, self-taught since 2023.
-I focus on Python and Django — building APIs, connecting databases, and shipping things to production.
-Currently improving my English from B2 toward B2+.
+Backend developer (Python & Django) based in Peru. I build APIs, design databases, and ship client projects to production.
+Open to remote opportunities · English B2
 
 ---
 
@@ -10,7 +9,7 @@ Currently improving my English from B2 toward B2+.
 **Frontend:** React + Vite — building UIs and wiring them to Django REST APIs
 **Databases:** PostgreSQL · SQLite
 **Deploy:** Render · Vercel · Neon
-**Tools:** Git · Swagger · Thunder Client · Antigravity
+**Tools:** Git · Swagger · pytest · Thunder Client · Antigravity
 
 ---
 
@@ -38,23 +37,10 @@ Currently improving my English from B2 toward B2+.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yustomper&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yustomper&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yustomper&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 🚀 Recent Work
+
+**Nativa — Inventory & Sales PWA** — freelance project, in production use
+Mobile-first app for a small cosmetics reseller, installed on the client's phone as a PWA. Django REST Framework API with atomic, row-locked stock transactions (no overselling), an append-only movement ledger, weighted-average costing, and live Excel export. React + Vite frontend with camera barcode scanning. Deployed to Render with PostgreSQL on Neon. pytest suite for the services layer.
 
 **Church Attendance System** — freelance project, in production use
 A QR-based attendance system for a church that previously tracked attendance with pen and paper. Members scan a QR code to check in; leaders can review attendance history to follow up with people who've stopped coming. Django backend with Google OAuth, role-based permissions (admin/operator/pending), and a REST API documented with Swagger. React frontend deployed to Vercel.
@@ -70,6 +56,18 @@ DRF + JWT + React + Tailwind CSS, deployed to Render and Vercel.
   <a href="https://github.com/Yustomper/volley-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yustomper&repo=volley-2&theme=radical" alt="Volley App" />
   </a>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yustomper&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yustomper&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
