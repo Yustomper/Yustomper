@@ -44,7 +44,6 @@ Mobile-first app for a small cosmetics reseller, installed on the client's phone
 
 **Church Attendance System** — freelance project, in production use
 A QR-based attendance system for a church that previously tracked attendance with pen and paper. Members scan a QR code to check in; leaders can review attendance history to follow up with people who've stopped coming. Django backend with Google OAuth, role-based permissions (admin/operator/pending), and a REST API documented with Swagger. React frontend deployed to Vercel.
-→ [Live App](https://attendance-system-ten-alpha.vercel.app/login) · [Swagger Docs](https://attendance-system-vey5.onrender.com/api/docs)
 
 **Volley App** — tournament management platform
 DRF + JWT + React + Tailwind CSS, deployed to Render and Vercel.
